@@ -1,0 +1,31 @@
+\contentsline {chapter}{Preface}{iii}{}%
+\contentsline {chapter}{Concerning the Use of This Book}{ix}{}%
+\contentsline {chapter}{\numberline {1}Morning Service}{1}{}%
+\contentsline {chapter}{\numberline {2}Evening Service}{15}{}%
+\contentsline {chapter}{\numberline {3}A Brief Order of Worship}{29}{}%
+\contentsline {chapter}{\numberline {4}The Commandments}{41}{}%
+\contentsline {chapter}{\numberline {5}The Beatitudes}{47}{}%
+\contentsline {chapter}{\numberline {6}Order for Communion}{51}{}%
+\contentsline {chapter}{\numberline {7}Baptism of Infants}{59}{}%
+\contentsline {chapter}{\numberline {8}Baptism of Adults}{65}{}%
+\contentsline {chapter}{\numberline {9}Order for Confirmation}{67}{}%
+\contentsline {chapter}{\numberline {10}Reception of Communicants}{69}{}%
+\contentsline {chapter}{\numberline {11}Solemnization of Marriage}{71}{}%
+\contentsline {chapter}{\numberline {12}Burial of the Dead}{77}{}%
+\contentsline {chapter}{\numberline {13}Licensing of Candidates}{79}{}%
+\contentsline {chapter}{\numberline {14}Ordination of Ministers}{81}{}%
+\contentsline {chapter}{\numberline {15}Installation of a Pastor}{83}{}%
+\contentsline {chapter}{\numberline {16}Ordination of Ruling Elders}{85}{}%
+\contentsline {chapter}{\numberline {17}Installation of Ruling Elders}{87}{}%
+\contentsline {chapter}{\numberline {18}Ordination of Deacons}{89}{}%
+\contentsline {chapter}{\numberline {19}Laying the Corner-stone}{91}{}%
+\contentsline {chapter}{\numberline {20}Dedication of a Church}{93}{}%
+\contentsline {chapter}{\numberline {21}The Treasury of Prayers}{95}{}%
+\contentsline {section}{\numberline {21.1}General Prayers for Common Worship}{95}{}%
+\contentsline {section}{\numberline {21.2}Prayers for Certain Times and Seasons}{95}{}%
+\contentsline {section}{\numberline {21.3}Intercessions for Special Objects and Persons}{95}{}%
+\contentsline {section}{\numberline {21.4}Brief Petitions}{95}{}%
+\contentsline {section}{\numberline {21.5}Ascriptions of Praise}{95}{}%
+\contentsline {chapter}{\numberline {22}Family Prayers}{97}{}%
+\contentsline {chapter}{\numberline {23}The Psalter}{119}{}%
+\contentsline {chapter}{\numberline {24}Ancient Hymns and Canticles}{121}{}%
