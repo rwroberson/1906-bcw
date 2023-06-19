@@ -1,0 +1,81 @@
+\documentclass[titlepage,a5paper,12pt]{book}
+
+\usepackage[paperheight=210mm,paperwidth=148mm]{geometry}
+\usepackage{libertine}
+\usepackage[T1]{fontenc}
+\usepackage{lettrine}
+\usepackage{amsmath}
+\usepackage{titlesec}
+
+\titleformat{\chapter}[block]
+{\Large\filcenter}{}{0em}{}
+
+\titleformat{\section}[block]
+{\scshape\filcenter}{}{0em}{}
+
+\titleformat{\subsection}[block]
+{\scshape\small\filcenter}{}{0em}{}
+
+\title{The Book of Common Worship: 1906 Edition}
+\author{The General Assembly \\ of the Presbyterian Church \\ in the United States of America}
+\date{1906}
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+\chapter{Preface}
+\input{preface.tex}
+\chapter{Concerning the Use of This Book}
+\input{concerning.tex}
+
+\tableofcontents
+
+\mainmatter
+\chapter[Morning Service]{The Order of Morning Service}
+\input{morning-service.tex}
+\chapter[Evening Service]{The Order of Evening Service}
+\input{evening-service.tex}
+\chapter{A Brief Order of Worship}
+\input{brief.tex}
+\chapter{The Commandments}
+\input{commandments.tex}
+\chapter{The Beatitudes}
+\input{beatitudes.tex}
+
+\chapter[Order for Communion]{The Order for the Celebration of Communion}
+\input{communion.tex}
+\chapter[Baptism of Infants]{The Order for the Administration of Baptism to Infants}
+\input{infant-baptism.tex}
+\chapter[Baptism of Adults]{The Order for the Administration of Baptism to Adults}
+\chapter[Order for Confirmation]{The Order for the Confirmation of Baptismal Vows}
+\chapter[Reception of Communicants]{The Order for the Reception of Communicants from Other Churches}
+\chapter[Solemnization of Marriage]{The Order for the Solemnization of Marriage}
+\input{marriage.tex}
+\chapter[Burial of the Dead]{The Order for the Burial of the Dead}
+
+\chapter[Licensing of Candidates]{The Order for the Licensing of Candidates to Preach the Gospel}
+\chapter[Ordination of Ministers]{The Order for the Ordination of Ministers}
+\chapter[Installation of a Pastor]{The Order for the Installation of a Pastor Who Has Been Previously Ordained}
+\chapter[Ordination of Ruling Elders]{The Order for the Ordination of Ruling Elders}
+\chapter[Installation of Ruling Elders]{The Order for the Installation of Ruling Elders Who Have Been Previously Ordained}
+\chapter[Ordination of Deacons]{The Order for the Ordination of Deacons}
+\chapter[Laying the Corner-stone]{The Order for Laying the Corner-stone of a Church}
+\chapter[Dedication of a Church]{The Order for the Dedication of a Church}
+
+\chapter{The Treasury of Prayers}
+	\section{General Prayers for Common Worship}
+	\section{Prayers for Certain Times and Seasons}
+	\section{Intercessions for Special Objects and Persons}
+	\section{Brief Petitions}
+	\section{Ascriptions of Praise}
+\chapter{Family Prayers}
+\input{family.tex}
+
+\chapter{The Psalter}
+\chapter{Ancient Hymns and Canticles}
+\input{canticles.tex}
+
+\end{document}
